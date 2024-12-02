@@ -35,7 +35,7 @@ export default function Footer() {
               target='blank'
               className="inline-flex items-center px-6 py-3 rounded-full bg-gradient-to-r from-blue-600 to-blue-400 text-white hover:shadow-lg transition-all"
             >
-              Contact Us
+              Konsultasi
               <Send className="ml-2" size={20} />
             </a>
           </div>

@@ -43,13 +43,13 @@ export default function Navbar() {
                 href="#services"
                 className="block px-3 py-2 text-gray-700 hover:text-blue-600"
               >
-                Services
+                Layanan
               </a>
               <a
                 href="#contact"
                 className="block px-3 py-2 text-gray-700 hover:text-blue-600"
               >
-                Contact Us
+                Hubungi Kami
               </a>
             </div>
           </div>
