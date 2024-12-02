@@ -6,5 +6,4 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/Smedi_Project/', // Ganti dengan nama repository Anda
 });
