@@ -10,7 +10,7 @@ export default function Hero() {
             Bikin Sosmed Kamu Jadi Mesin Cuan!
             </h1>
             <p className="mt-6 text-xl text-gray-600">
-            Capek ngurus media sosial tapi nggak keliatan hasilnya? Tenang, kami bantu kelola media sosial kamu, bikin konten yang keren, dan naikin engagement biar brand kamu makin dikenal. Fokus aja ke bisnismu, urusan media sosial biar kami yang handle!
+            Capek ngurus media sosial tapi nggak keliatan hasilnya? Tenang, kami bantu kelola media sosial kamu, bikin konten yang keren, dan naikin engagement biar bisnis kamu makin dikenal. Fokus aja ke bisnismu, urusan media sosial biar kami yang handle!
             </p>
             <div className="mt-8">
               <a
