@@ -4,9 +4,9 @@ export default function ServiceSection() {
   const services = [
     {
       title: "Paket Hemat",
-      price: "Rp 299K",
+      price: "Rp 399K",
       features: [
-        "5 konten video/motion graphic",
+        "4 konten video/motion graphic",
         "Durasi: 2 menit/video.",
         "Bahan dari client.",
         "Hemat biaya.",
@@ -15,27 +15,29 @@ export default function ServiceSection() {
     },
     {
       title: "Paket Optimal",
-      price: "Rp 399K",
+      price: "Rp 599K",
       features: [
         "8 konten video/motion graphic.",
         "Durasi: 2 menit/video.",
         "Bahan dari client.",
         "Harga lebih hemat per video.",
         "Cocok untuk kampanye intensif.",
-        "Pilihan favorit banyak client."
+        "Pilihan favorit banyak client.",
+        "Menjadi Prioritas Pengerjaan"
       ],
       isPopular: true
     },
     {
       title: "Paket Exclusive",
-      price: "Rp 799K",
+      price: "Rp 899K",
       features: [
-        "14 konten video/motion graphic.",
+        "12 konten video/motion graphic.",
         "Durasi: 2 menit/video.",
         "Bahan dari client.",
         "Proses lebih cepat.",
         "Solusi premium dan eksklusif.",
-        "Ideal untuk kebutuhan intens."
+        "Ideal untuk kebutuhan intens.",
+        "Menjadi Prioritas Pengerjaan"
       ]
     }
   ];
